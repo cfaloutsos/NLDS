@@ -5,3 +5,4 @@ Bare minimum for using linear, and non-linear dynamical systems,
 for time series analysis and forecasting.
 
 
+FYI: abandoned.
